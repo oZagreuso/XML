@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<offres_emploi>
+    <offre_emploi>
+        <intitule>Développeur PHP</intitule>
+        <ville>Paris</ville>
+        <description>
+            <tache>Conception d'application web, 
+                    Maintenance d'application et évolutions, 
+                    corrections de bug
+                    Mener les tests, 
+                    livraison
+            </tache>
+            <avantages>
+                Evenements(Noel,barbecue,séminaire)
+                Télétravail 2 jours par semaine
+                Primes(vacances,participation)
+                Tickets restaurants
+            </avantages>
+            <profil>
+                3/5 ans d'expérience
+                Bac +4/+5
+            </profil>
+        </description>
+        <competences>
+            PHP
+            Symphony
+            Base de donnees : MySQL, MySQL
+            Serveur : Apache/Nginx 
+            Versionning : Github/Gitlab 
+        </competences>
+        <date_de_demarrage>01/05/2023</date_de_demarrage>
+        <remuneration>A négocier selon profil</remuneration>
+        <email>dev.php@emploi.fr</email>
+    </offre_emploi>
+</offres_emploi>

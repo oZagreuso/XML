@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu>
+    <entrees>
+        <entree>
+            <intitule>Foie gras</intitule>
+            <prix devise="Euro">35</prix>
+            <description>Foie gras d'oie avec sa tranche de pain d'épices</description>
+        </entree>
+        <entree>
+            <intitule>Tartare de boeuf</intitule>
+            <prix devise="Euro">32</prix>
+            <description>Tartare de boeuf origine france préparer minute</description>
+        </entree>
+    </entrees>
+    <plats>
+        <plat>
+            <intitule>Civet de biche</intitule>
+            <prix devise="Euro">43</prix>
+            <description>Filet de bambi </description>
+        </plat>
+        <plat>
+            <intitule>Saumon à l'oseille</intitule>
+            <prix devise="Euro">46</prix>
+            <description>Pavé de saumon sauvage écossais et sa sauce à l'oseille du jardin</description>
+        </plat>
+        <plat>
+            <intitule>Baeckeoffe de la mer</intitule>
+            <prix devise="Euro">41</prix>
+            <description>Variante du mythique plat alsacien cuisiner aux 3 poissons</description>
+        </plat>
+    </plats>
+    <desserts>
+        <dessert>
+            <intitule>Tiramisu</intitule>
+            <prix devise="Euro">24</prix>
+            <description>Tiramisu à la créme de nos campagnes et à l'amaretto</description>
+        </dessert>
+        <dessert>
+            <intitule>Tarte aux poires de nos grands mères</intitule>
+            <prix devise="Euro">28</prix>
+            <description>Tarte à la pate sablés pure beurre aux poires du jardin et à la poudre d'amandes</description>
+        </dessert>
+    </desserts>
+</menu>

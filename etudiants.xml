@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<formation>
+    <intitule>Développeur web</intitule>
+    <duree>12 mois</duree>
+    <date_de_debut>01/09/2022</date_de_debut>
+    <date_de_fin>31/08/2023</date_de_fin>
+    <etudiants>
+        <etudiant>
+            <nom>Dupont</nom>
+            <prenom>Jean</prenom>
+            <date_de_naissance>04/05/1998</date_de_naissance>
+            <email>jean.dupont@gmail.com</email>
+        </etudiant>
+        <etudiant>
+            <nom>Martin</nom>
+            <prenom>Marie</prenom>
+            <date_de_naissance>03/10/1999</date_de_naissance>
+            <email>marie.martin@yahoo.fr</email>
+        </etudiant>
+        <etudiant>
+            <nom>Miloudi</nom>
+            <prenom>Mustapha</prenom>
+            <date_de_naissance>14/08/1971</date_de_naissance>
+            <email>miloudi.mustapha@gmail.com</email>
+        </etudiant>
+    </etudiants>
+</formation>

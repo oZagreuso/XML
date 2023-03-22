@@ -1,0 +1,33 @@
+{
+    "entrees" : 
+        {
+            "entree1" : {
+                "intitule" : "Foie gras",
+                "prix" : 35,
+                "description" : "Foie gras d'oie avec sa tranche de pain d'épices"
+            },
+            "entree2" : {
+                "intitule" : "Tartare de boeuf",
+                "prix" : 32,
+                "description" : "Tartare de boeuf origine france préparer minute"
+            }
+        },
+    "plats" : 
+        {
+            "plat1" : {
+                "intitule" : "Civet de biche",
+                "prix" : 43,
+                "description" : "Filet de bambi" 
+            },
+            "plat2" : {
+                "intitule" : "Saumon à l'oseille",
+                "prix" : 46,
+                "description" : "Pavé de saumon sauvage écossais et sa sauce à l'oseille du jardin"
+            },
+            "plat3" : {
+                "intitule" : "Baeckeoffe de la mer",
+                "prix" : 41,
+                "description" : "Variante du mythique plat alsacien cuisiner aux 3 poissons"
+            }
+        }
+}
